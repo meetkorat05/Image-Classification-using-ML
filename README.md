@@ -20,4 +20,13 @@ The dataset consists of images of various well-known sports personalities. Each 
 - **Input**: Image of a person
 - **Output**: Predicted category (sports person)
 
+## 📬 Contact
+
+If you have any questions, feel free to connect with me:
+
+@ LinkedIn : [Meet Korat](https://www.linkedin.com/in/meet-korat-4353a7284/)
+
+@ Github : [Meet Korat](https://github.com/meetkorat05)
+
+
 
